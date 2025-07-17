@@ -1,0 +1,31 @@
+{
+  "index.qmd": {
+    "index.html": "3ae7ce64"
+  },
+  "SECURITY.md": {
+    "SECURITY.html": "a0a8742e"
+  },
+  "404.qmd": {
+    "404.html": "0d89c89d"
+  },
+  "posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica/index.qmd": {
+    "index.html": "f7c23794",
+    "index.tex": "152a9983",
+    "index.docx": "1ebc63bc"
+  },
+  "posts/2024-03-31-por-editar/index.qmd": {
+    "index.html": "88bbb4ac",
+    "index.tex": "9a1effe5",
+    "index.docx": "13182f42"
+  },
+  "posts/2021-10-01-gestion-publica-y-administracion-publica/index.qmd": {
+    "index.html": "e6cfb82b",
+    "index.tex": "e02982d1",
+    "index.docx": "944b607d"
+  },
+  "posts/2023-05-11-cualidades-de-los-servidores-publicos/index.qmd": {
+    "index.html": "fc2611e2",
+    "index.tex": "64fdecb8",
+    "index.docx": "6a1b4be1"
+  }
+}

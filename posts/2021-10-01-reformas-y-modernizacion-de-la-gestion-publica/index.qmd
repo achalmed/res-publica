@@ -25,11 +25,11 @@ categories:
   - Reforma del Estado  
   - Política Pública
 tags:
-  - gestión pública  
-  - reforma política  
-  - reforma económica  
-  - modernización  
-  - políticas públicas
+  - gestion_publica
+  - reforma_politica
+  - reforma_economica
+  - modernizacion
+  - politicas_publicas
 
 # Nota del Autor
 author-note:

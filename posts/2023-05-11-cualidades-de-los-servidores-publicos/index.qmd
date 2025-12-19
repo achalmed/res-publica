@@ -24,11 +24,12 @@ categories:
   - Posts
   - Liderazgo
 tags:
-  - Integridad  
-  - Tenacidad  
-  - Habilidades Futuristas  
-  - Diálogo  
-  - Gestión de Crisis
+  - integridad
+  - tenacidad
+  - habilidades_futuristas
+  - dialogo
+  - gestion_de_crisis
+  - gestion_publica
 
 # Nota del Autor
 author-note:

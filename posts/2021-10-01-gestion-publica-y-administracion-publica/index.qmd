@@ -25,11 +25,12 @@ categories:
   - Política Gubernamental
   - Economía Pública
 tags:
-  - gestión de políticas  
-  - recursos públicos  
-  - burocracia  
-  - servicios públicos  
-  - proyectos gubernamentales
+  - gestion_de_politicas
+  - recursos_publicos
+  - burocracia
+  - servicios_publicos
+  - proyectos_gubernamentales
+  - gestion_publica
 
 # Nota del Autor
 author-note:

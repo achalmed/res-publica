@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.26">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -31,22 +31,22 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./assets/img/favicon.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-listing/list.min.js"></script>
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-cd918b563e4f768957f23be5314ee61b.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-092403fec9bcbc50b0bb9dfc088d57e2.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-a04b885fc98d199d60c38db527abd914.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/academicons-1.9.2/all.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/academicons-1.9.2/size.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -86,7 +86,7 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-title','listing-author','listing-description','listing-date','listing-image','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -103,15 +103,13 @@ ul.task-list li input[type="checkbox"] {
     }
   })
   </script>
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-XGH6TP6RB3"></script>
-
-<script type="text/javascript">
-
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-gtag('config', 'G-XGH6TP6RB3', { 'anonymize_ip': true});
-</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-55DBZ444');</script>
+<!-- End Google Tag Manager -->
 <link rel="stylesheet" href="assets/listing-default.css">
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
@@ -128,7 +126,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -144,15 +142,17 @@ window.Quarto = {
 };
 </script>
 
-<link rel="stylesheet" href="styles.css">
-<link rel="alternate" type="application/rss+xml" title="Edison Achalma B.Sc. Econ." href="index.xml" data-external="1"><meta property="og:title" content="Gestión pública – Edison Achalma B.Sc. Econ.">
-<meta property="og:description" content="Este es mi blog donde practico compartir mi curiosidad. Incluye notas y tutoriales para mi futuro y espero que también para ti.  Sign up for my newsletter to receive updates about new posts.">
-<meta property="og:site_name" content="AchalmaEdison">
+<link rel="stylesheet" href="assets/styles.css">
+<link rel="alternate" type="application/rss+xml" title="Edison Achalma B.Sc. Econ." href="index.xml" data-external="1"><meta property="og:title" content="Edison Achalma B.Sc. Econ.">
+<meta property="og:description" content="Investigador y educador que aplica la ciencia de datos de forma que se dé prioridad a la equidad social.">
+<meta property="og:image" content="https://res-publica.netlify.app//assets/img/sidebar.jpg">
+<meta property="og:site_name" content="Actus mercator">
 <meta property="og:locale" content="es_ES">
 <meta name="twitter:title" content="Gestión pública – Edison Achalma B.Sc. Econ.">
 <meta name="twitter:description" content="Este es mi blog donde practico compartir mi curiosidad. Incluye notas y tutoriales para mi futuro y espero que también para ti.  Sign up for my newsletter to receive updates about new posts.">
+<meta name="twitter:image" content="https://res-publica.netlify.app/posts/featured.jpg">
 <meta name="twitter:creator" content="@achalmaedison">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -176,6 +176,59 @@ window.Quarto = {
     <a class="nav-link" href="https://achalmaedison.netlify.app/about/"> 
 <span class="menu-text">About</span></a>
   </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-more" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+      <i class="bi bi-ellipsis-h" role="img" aria-label="More">
+</i> 
+ <span class="menu-text">More</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-more">    
+        <li>
+    <a class="dropdown-item" href="https://epsilon-y-beta.netlify.app/">
+ <span class="dropdown-text">Econometria</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://dialectica-y-mercado.netlify.app/">
+ <span class="dropdown-text">Filosofía</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://pecunia-fluxus.netlify.app/">
+ <span class="dropdown-text">Finanzas</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://actus-mercator.netlify.app/">
+ <span class="dropdown-text">Gestión empresarial</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://res-publica.netlify.app/">
+ <span class="dropdown-text">Gestión pública</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://methodica.netlify.app/">
+ <span class="dropdown-text">Metodología de la investigación</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://aequilibria.netlify.app/">
+ <span class="dropdown-text">Macroeconomía</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://axiomata.netlify.app/">
+ <span class="dropdown-text">Matemáticas</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://optimums.netlify.app/">
+ <span class="dropdown-text">Microeconomía</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://numerus-scriptum.netlify.app/">
+ <span class="dropdown-text">Programación y Software</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://chaska-x.netlify.app/">
+ <span class="dropdown-text">Seguridad informática</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/achalmed"> <i class="bi bi-github" role="img">
 </i> 
@@ -186,12 +239,20 @@ window.Quarto = {
 </i> 
 <span class="menu-text"></span></a>
   </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="./index.xml"> <i class="bi bi-rss" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
 </div>
       </div> <!-- /container-fluid -->
     </nav>
+  <div id="quarto-announcement" data-announcement-id="198edcd182a186efde93855487f89d6b" class="alert alert-primary hidden"><i class="bi bi-gift quarto-announcement-icon"></i><div class="quarto-announcement-content">
+<p>¡Bienvenidos a mi mundo! ¡Felices fiestas! Gracias por visitar 🎄</p>
+</div><i class="bi bi-x-lg quarto-announcement-action"></i></div>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
@@ -233,18 +294,18 @@ Si disfrutas mis blogs y artículos sobre economía, finanzas y análisis de dat
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-ultimas-entradas">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="UG9zdHMlMkNMaWRlcmF6Z28=" data-listing-date-sort="1683781200000" data-listing-file-modified-sort="1744921215631" data-listing-date-modified-sort="1752728400000" data-listing-reading-time-sort="4" data-listing-word-count-sort="771">
+<div class="quarto-post image-right" data-index="0" data-categories="RWNvbm9tJUMzJUFEYSUyMFAlQzMlQkFibGljYQ==" data-listing-date-sort="1683781200000" data-listing-file-modified-sort="1766399485962" data-listing-date-modified-sort="1766379600000" data-listing-reading-time-sort="4" data-listing-word-count-sort="771">
 <div class="thumbnail"><a href="./posts/2023-05-11-cualidades-de-los-servidores-publicos/index.html" class="no-external">
 
-<p class="card-img-top"><img src="sidebar.jpg"  class="thumbnail-image card-img"/></p>
+<img loading="lazy" src="./posts/featured.jpg" class="thumbnail-image">
 
 </a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="./posts/2023-05-11-cualidades-de-los-servidores-publicos/index.html" class="no-external">Cualidades Esenciales de los Servidores Públicos</a>
+<a href="./posts/2023-05-11-cualidades-de-los-servidores-publicos/index.html" class="no-external">Cualidades del servidor público ideal</a>
 </h3>
 <div class="delink listing-description"><a href="./posts/2023-05-11-cualidades-de-los-servidores-publicos/index.html" class="no-external">
-<p>This article delves into the essential qualities that public servants should embody to enhance public administration effectiveness and empathy. Key attributes discussed include kindness, astuteness in judgment, future-proof skills, justice, tenacity, a sense of duty, a touch of rebellion, motivation, dialogue promotion, serenity, result-oriented focus, and delegation skills. These qualities are explored in the context of adapting to changing governmental, civil, and private sector dynamics, emphasizing the need for innovation and integrity in public service roles.</p>
+<p>Ética, eficiencia, transparencia y compromiso como valores esenciales en la administración pública moderna.</p>
 </a></div>
 </div>
 <div class="metadata">
@@ -259,18 +320,18 @@ Edison Achalma
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="UG9zdHMlMkNSZWZvcm1hJTIwZGVsJTIwRXN0YWRvJTJDUG9sJUMzJUFEdGljYSUyMFAlQzMlQkFibGljYQ==" data-listing-date-sort="1633064400000" data-listing-file-modified-sort="1744921215619" data-listing-date-modified-sort="1752728400000" data-listing-reading-time-sort="9" data-listing-word-count-sort="1757">
+<div class="quarto-post image-right" data-index="1" data-categories="RWNvbm9tJUMzJUFEYSUyMFAlQzMlQkFibGljYQ==" data-listing-date-sort="1633064400000" data-listing-file-modified-sort="1766399485982" data-listing-date-modified-sort="1766379600000" data-listing-reading-time-sort="9" data-listing-word-count-sort="1757">
 <div class="thumbnail"><a href="./posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica/index.html" class="no-external">
 
-<p class="card-img-top"><img src="sidebar.jpg"  class="thumbnail-image card-img"/></p>
+<img loading="lazy" src="./posts/featured.jpg" class="thumbnail-image">
 
 </a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="./posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica/index.html" class="no-external">Reformas y Modernización de la Gestión Pública en Perú</a>
+<a href="./posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica/index.html" class="no-external">Reformas en gestión pública peruana</a>
 </h3>
 <div class="delink listing-description"><a href="./posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica/index.html" class="no-external">
-<p>This article discusses the need for public management reform and modernization in Peru to enhance efficiency and effectiveness for the benefit of citizens. It highlights three key initiatives: the development of a Strategic Plan for Public Management Modernization, the implementation of a performance evaluation and management control system by the Ministry of Economy’s Budget Directorate, and the establishment of a High Public Management System for appointing competent leaders through transparent public contests. The piece also explores broader state reforms across political, economic, health, agrarian, and tax sectors, emphasizing the necessity for government collaboration with public, private, and academic sectors. It concludes with principles for modernizing public management, aiming to foster a culture of ethics, transparency, and efficiency in delivering public services.</p>
+<p>Procesos de modernización, nueva gestión pública y reformas institucionales en el Estado peruano reciente.</p>
 </a></div>
 </div>
 <div class="metadata">
@@ -285,18 +346,18 @@ Edison Achalma
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="UG9zdHMlMkNQb2wlQzMlQUR0aWNhJTIwR3ViZXJuYW1lbnRhbCUyQ0Vjb25vbSVDMyVBRGElMjBQJUMzJUJBYmxpY2E=" data-listing-date-sort="1633064400000" data-listing-file-modified-sort="1744921215619" data-listing-date-modified-sort="1752728400000" data-listing-reading-time-sort="4" data-listing-word-count-sort="643">
+<div class="quarto-post image-right" data-index="2" data-categories="RWNvbm9tJUMzJUFEYSUyMFAlQzMlQkFibGljYQ==" data-listing-date-sort="1633064400000" data-listing-file-modified-sort="1766399485999" data-listing-date-modified-sort="1766379600000" data-listing-reading-time-sort="4" data-listing-word-count-sort="643">
 <div class="thumbnail"><a href="./posts/2021-10-01-gestion-publica-y-administracion-publica/index.html" class="no-external">
 
-<p class="card-img-top"><img src="sidebar.jpg"  class="thumbnail-image card-img"/></p>
+<img loading="lazy" src="./posts/featured.jpg" class="thumbnail-image">
 
 </a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="./posts/2021-10-01-gestion-publica-y-administracion-publica/index.html" class="no-external">Diferencias entre Gestión Pública y Administración Pública</a>
+<a href="./posts/2021-10-01-gestion-publica-y-administracion-publica/index.html" class="no-external">Gestión vs administración pública</a>
 </h3>
 <div class="delink listing-description"><a href="./posts/2021-10-01-gestion-publica-y-administracion-publica/index.html" class="no-external">
-<p>This article examines the concepts of public management and public administration, detailing their definitions, differences, and applications within the governmental context. Public administration involves the efficient handling of public resources by various institutions across different government levels, focusing on bureaucratic structures and resource safeguarding. On the other hand, public management emphasizes the use of appropriate means to achieve collective goals through policy implementation, resource allocation, and program management. The paper discusses how these two areas, while related, differ in their dynamism, objectives, and impact on public life, providing concrete examples like the “Pensión 65” program and the Jorge Chávez Airport expansion to illustrate their practical application.</p>
+<p>Diferencias conceptuales y evolución hacia modelos orientados a resultados en la administración estatal.</p>
 </a></div>
 </div>
 <div class="metadata">
@@ -314,6 +375,9 @@ Edison Achalma
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div></main> <!-- /main -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-55DBZ444" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -365,13 +429,14 @@ Edison Achalma
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
@@ -386,7 +451,7 @@ Edison Achalma
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/achalmaedison\.netlify\.app\/");
+        var filterRegex = new RegExp("https:\/\/res-publica\.netlify\.app\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -720,7 +785,7 @@ Edison Achalma
 <p>© 2025 Edison Achalma ∙ Made with <a href="https://quarto.org">Quarto</a></p>
 </div>   
     <div class="nav-footer-center">
-<p><a class="link-dark me-1" href="./accessibility.html" title="Accessibility commitment" target="_blank" rel="noopener"><i class="fa-solid fa-universal-access" aria-label="universal-access"></i></a> <a class="link-dark me-1" href="https://fosstodon.org/@achalmaedison" title="mastodon" target="_blank" rel="noopener"><i class="fa-brands fa-mastodon" aria-label="mastodon"></i></a> <a class="link-dark me-1" href="https://github.com/achalmed" title="github" target="_blank" rel="noopener"><i class="fa-brands fa-github" aria-label="github"></i></a> <a class="link-dark me-1" href="https://orcid.org/0000-0001-6996-3364" title="orcid" target="_blank" rel="noopener"><i class="ai  ai-orcid" style="color:black"></i></a> <a class="link-dark me-1" href="https://scholar.google.com/citations?hl=en&amp;user=LvAkIvcAAAAJ" title="Google Scholar" target="_blank" rel="noopener"><i class="ai  ai-google-scholar" style="color:black"></i></a> <a class="link-dark me-1" href="https://linkedin.com/in/achalmaedison" title="LinkedIn" target="_blank" rel="noopener"><i class="fa-brands fa-linkedin" aria-label="linkedin"></i></a></p>
+<p><a class="link-dark me-1" href="./accessibility.html" title="Accessibility commitment" target="_blank" rel="noopener"><i class="fa-solid fa-universal-access" aria-label="universal-access"></i></a> <a class="link-dark me-1" href="https://fosstodon.org/@achalmaedison" title="mastodon" target="_blank" rel="noopener"><i class="fa-brands fa-mastodon" aria-label="mastodon"></i></a> <a class="link-dark me-1" href="https://github.com/achalmed" title="github" target="_blank" rel="noopener"><i class="fa-brands fa-github" aria-label="github"></i></a> <a class="link-dark me-1" href="https://linkedin.com/in/achalmaedison" title="LinkedIn" target="_blank" rel="noopener"><i class="fa-brands fa-linkedin" aria-label="linkedin"></i></a></p>
 </div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">

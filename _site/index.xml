@@ -6,18 +6,23 @@
       version="2.0">
 <channel>
 <title>Edison Achalma B.Sc. Econ.</title>
-<link>https://achalmaedison.netlify.app/</link>
-<atom:link href="https://achalmaedison.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://res-publica.netlify.app/</link>
+<atom:link href="https://res-publica.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
 <description>Este es mi blog donde practico compartir mi curiosidad.&lt;br&gt;
 Incluye notas y tutoriales para mi futuro y espero que también para ti.&lt;br&gt;&lt;br&gt;
 {{&lt; fa envelope &gt;}} Sign up for my [newsletter](https://achalmaedison.netlify.app/contact#buttondown) to receive updates about new posts.
 </description>
-<generator>quarto-1.7.32</generator>
+<image>
+<url>https://res-publica.netlify.app/assets/img/default-preview.jpg</url>
+<title>Edison Achalma B.Sc. Econ.</title>
+<link>https://res-publica.netlify.app/</link>
+</image>
+<generator>quarto-1.8.26</generator>
 <lastBuildDate>Thu, 11 May 2023 05:00:00 GMT</lastBuildDate>
 <item>
-  <title>Cualidades Esenciales de los Servidores Públicos</title>
+  <title>Cualidades del servidor público ideal</title>
   <dc:creator>Edison Achalma</dc:creator>
-  <link>https://achalmaedison.netlify.app/posts/2023-05-11-cualidades-de-los-servidores-publicos/</link>
+  <link>https://res-publica.netlify.app/posts/2023-05-11-cualidades-de-los-servidores-publicos/</link>
   <description><![CDATA[ 
 
 <style>
@@ -120,10 +125,9 @@ z-index: 0;
 <h1>Publicaciones Similares</h1>
 <p>Si te interesó este artículo, te recomendamos que explores otros blogs y recursos relacionados que pueden ampliar tus conocimientos. Aquí te dejo algunas sugerencias:</p>
 <ol type="1">
-<li><a href="https://achalmaedison.netlify.app/gestion-publica/posts/2021-10-01-gestion-publica-y-administracion-publica/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/gestion-publica/posts/2021-10-01-gestion-publica-y-administracion-publica">Gestion Publica Y Administracion Publica</a></li>
-<li><a href="https://achalmaedison.netlify.app/gestion-publica/posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/gestion-publica/posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica">Reformas Y Modernizacion De La Gestion Publica</a></li>
-<li><a href="https://achalmaedison.netlify.app/gestion-publica/posts/2023-05-11-cualidades-de-los-servidores-publicos/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/gestion-publica/posts/2023-05-11-cualidades-de-los-servidores-publicos">Cualidades De Los Servidores Publicos</a></li>
-<li><a href="https://achalmaedison.netlify.app/gestion-publica/posts/2024-03-31-por-editar/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/gestion-publica/posts/2024-03-31-por-editar">Por Editar</a></li>
+<li><a href="https://res-publica.netlify.app/posts/2021-10-01-gestion-publica-y-administracion-publica/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://res-publica.netlify.app/posts/2021-10-01-gestion-publica-y-administracion-publica">Gestion Publica Y Administracion Publica</a></li>
+<li><a href="https://res-publica.netlify.app/posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://res-publica.netlify.app/posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica">Reformas Y Modernizacion De La Gestion Publica</a></li>
+<li><a href="https://res-publica.netlify.app/posts/2023-05-11-cualidades-de-los-servidores-publicos/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://res-publica.netlify.app/posts/2023-05-11-cualidades-de-los-servidores-publicos">Cualidades De Los Servidores Publicos</a></li>
 </ol>
 <p>Esperamos que encuentres estas publicaciones igualmente interesantes y útiles. ¡Disfruta de la lectura!</p>
 
@@ -131,18 +135,18 @@ z-index: 0;
 </section>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reutilización</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es">CC BY-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Cómo citar</h2><div><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-achalma2023" class="csl-entry quarto-appendix-citeas">
-Achalma, Edison. 2023. <span>“Cualidades Esenciales de los Servidores
-Públicos,”</span> May. <a href="https://achalmaedison.netlify.app/posts/2023-05-11-cualidades-de-los-servidores-publicos/">https://achalmaedison.netlify.app/posts/2023-05-11-cualidades-de-los-servidores-publicos/</a>.
+Achalma, Edison. 2023. <span>“Cualidades del servidor público
+ideal,”</span> May. <a href="https://res-publica.netlify.app/posts/2023-05-11-cualidades-de-los-servidores-publicos/">https://res-publica.netlify.app/posts/2023-05-11-cualidades-de-los-servidores-publicos/</a>.
 </div></div></section></div> ]]></description>
-  <category>Posts</category>
-  <category>Liderazgo</category>
-  <guid>https://achalmaedison.netlify.app/posts/2023-05-11-cualidades-de-los-servidores-publicos/</guid>
+  <category>Economía Pública</category>
+  <guid>https://res-publica.netlify.app/posts/2023-05-11-cualidades-de-los-servidores-publicos/</guid>
   <pubDate>Thu, 11 May 2023 05:00:00 GMT</pubDate>
+  <media:content url="https://res-publica.netlify.app/posts/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>Reformas y Modernización de la Gestión Pública en Perú</title>
+  <title>Reformas en gestión pública peruana</title>
   <dc:creator>Edison Achalma</dc:creator>
-  <link>https://achalmaedison.netlify.app/posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica/</link>
+  <link>https://res-publica.netlify.app/posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica/</link>
   <description><![CDATA[ 
 
 <style>
@@ -274,10 +278,9 @@ z-index: 0;
 <h1>Publicaciones Similares</h1>
 <p>Si te interesó este artículo, te recomendamos que explores otros blogs y recursos relacionados que pueden ampliar tus conocimientos. Aquí te dejo algunas sugerencias:</p>
 <ol type="1">
-<li><a href="https://achalmaedison.netlify.app/gestion-publica/posts/2021-10-01-gestion-publica-y-administracion-publica/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/gestion-publica/posts/2021-10-01-gestion-publica-y-administracion-publica">Gestion Publica Y Administracion Publica</a></li>
-<li><a href="https://achalmaedison.netlify.app/gestion-publica/posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/gestion-publica/posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica">Reformas Y Modernizacion De La Gestion Publica</a></li>
-<li><a href="https://achalmaedison.netlify.app/gestion-publica/posts/2023-05-11-cualidades-de-los-servidores-publicos/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/gestion-publica/posts/2023-05-11-cualidades-de-los-servidores-publicos">Cualidades De Los Servidores Publicos</a></li>
-<li><a href="https://achalmaedison.netlify.app/gestion-publica/posts/2024-03-31-por-editar/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/gestion-publica/posts/2024-03-31-por-editar">Por Editar</a></li>
+<li><a href="https://res-publica.netlify.app/posts/2021-10-01-gestion-publica-y-administracion-publica/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://res-publica.netlify.app/posts/2021-10-01-gestion-publica-y-administracion-publica">Gestion Publica Y Administracion Publica</a></li>
+<li><a href="https://res-publica.netlify.app/posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://res-publica.netlify.app/posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica">Reformas Y Modernizacion De La Gestion Publica</a></li>
+<li><a href="https://res-publica.netlify.app/posts/2023-05-11-cualidades-de-los-servidores-publicos/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://res-publica.netlify.app/posts/2023-05-11-cualidades-de-los-servidores-publicos">Cualidades De Los Servidores Publicos</a></li>
 </ol>
 <p>Esperamos que encuentres estas publicaciones igualmente interesantes y útiles. ¡Disfruta de la lectura!</p>
 
@@ -286,19 +289,18 @@ z-index: 0;
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reutilización</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es">CC BY-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Cómo citar</h2><div><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-achalma2021" class="csl-entry quarto-appendix-citeas">
 Achalma, Edison, Felix Bermudo, Noe Borda, Kattya Castillo, and Yuri
-Fernandez. 2021. <span>“Reformas y Modernización de la Gestión Pública
-en Perú,”</span> October. <a href="https://achalmaedison.netlify.app/posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica/">https://achalmaedison.netlify.app/posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica/</a>.
+Fernandez. 2021. <span>“Reformas en gestión pública peruana,”</span>
+October. <a href="https://res-publica.netlify.app/posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica/">https://res-publica.netlify.app/posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica/</a>.
 </div></div></section></div> ]]></description>
-  <category>Posts</category>
-  <category>Reforma del Estado</category>
-  <category>Política Pública</category>
-  <guid>https://achalmaedison.netlify.app/posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica/</guid>
+  <category>Economía Pública</category>
+  <guid>https://res-publica.netlify.app/posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica/</guid>
   <pubDate>Fri, 01 Oct 2021 05:00:00 GMT</pubDate>
+  <media:content url="https://res-publica.netlify.app/posts/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>Diferencias entre Gestión Pública y Administración Pública</title>
+  <title>Gestión vs administración pública</title>
   <dc:creator>Edison Achalma</dc:creator>
-  <link>https://achalmaedison.netlify.app/posts/2021-10-01-gestion-publica-y-administracion-publica/</link>
+  <link>https://res-publica.netlify.app/posts/2021-10-01-gestion-publica-y-administracion-publica/</link>
   <description><![CDATA[ 
 
 <style>
@@ -404,10 +406,9 @@ z-index: 0;
 <h1>Publicaciones Similares</h1>
 <p>Si te interesó este artículo, te recomendamos que explores otros blogs y recursos relacionados que pueden ampliar tus conocimientos. Aquí te dejo algunas sugerencias:</p>
 <ol type="1">
-<li><a href="https://achalmaedison.netlify.app/gestion-publica/posts/2021-10-01-gestion-publica-y-administracion-publica/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/gestion-publica/posts/2021-10-01-gestion-publica-y-administracion-publica">Gestion Publica Y Administracion Publica</a></li>
-<li><a href="https://achalmaedison.netlify.app/gestion-publica/posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/gestion-publica/posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica">Reformas Y Modernizacion De La Gestion Publica</a></li>
-<li><a href="https://achalmaedison.netlify.app/gestion-publica/posts/2023-05-11-cualidades-de-los-servidores-publicos/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/gestion-publica/posts/2023-05-11-cualidades-de-los-servidores-publicos">Cualidades De Los Servidores Publicos</a></li>
-<li><a href="https://achalmaedison.netlify.app/gestion-publica/posts/2024-03-31-por-editar/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/gestion-publica/posts/2024-03-31-por-editar">Por Editar</a></li>
+<li><a href="https://res-publica.netlify.app/posts/2021-10-01-gestion-publica-y-administracion-publica/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://res-publica.netlify.app/posts/2021-10-01-gestion-publica-y-administracion-publica">Gestion Publica Y Administracion Publica</a></li>
+<li><a href="https://res-publica.netlify.app/posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://res-publica.netlify.app/posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica">Reformas Y Modernizacion De La Gestion Publica</a></li>
+<li><a href="https://res-publica.netlify.app/posts/2023-05-11-cualidades-de-los-servidores-publicos/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://res-publica.netlify.app/posts/2023-05-11-cualidades-de-los-servidores-publicos">Cualidades De Los Servidores Publicos</a></li>
 </ol>
 <p>Esperamos que encuentres estas publicaciones igualmente interesantes y útiles. ¡Disfruta de la lectura!</p>
 
@@ -416,14 +417,13 @@ z-index: 0;
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reutilización</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es">CC BY-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Cómo citar</h2><div><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-achalma2021" class="csl-entry quarto-appendix-citeas">
 Achalma, Edison, Felix Bermudo, Noe Borda, Kattya Castillo, and Yuri
-Fernandez. 2021. <span>“Diferencias entre Gestión Pública y
-Administración Pública,”</span> October. <a href="https://achalmaedison.netlify.app/posts/2021-10-01-gestion-publica-y-administracion-publica/">https://achalmaedison.netlify.app/posts/2021-10-01-gestion-publica-y-administracion-publica/</a>.
+Fernandez. 2021. <span>“Gestión vs administración pública,”</span>
+October. <a href="https://res-publica.netlify.app/posts/2021-10-01-gestion-publica-y-administracion-publica/">https://res-publica.netlify.app/posts/2021-10-01-gestion-publica-y-administracion-publica/</a>.
 </div></div></section></div> ]]></description>
-  <category>Posts</category>
-  <category>Política Gubernamental</category>
   <category>Economía Pública</category>
-  <guid>https://achalmaedison.netlify.app/posts/2021-10-01-gestion-publica-y-administracion-publica/</guid>
+  <guid>https://res-publica.netlify.app/posts/2021-10-01-gestion-publica-y-administracion-publica/</guid>
   <pubDate>Fri, 01 Oct 2021 05:00:00 GMT</pubDate>
+  <media:content url="https://res-publica.netlify.app/posts/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

@@ -6,6 +6,7 @@
   nolmodern,
   notxfonts,
   notimes,
+  12pt,
   colorlinks=true,linkcolor=blue,citecolor=blue,urlcolor=blue]{apa7}
 
 \usepackage{amsmath}
@@ -17,8 +18,6 @@
 \babelprovide[main,import]{spanish}
 
 
-\babelfont{rm}[,RawFeature={fallback=mainfontfallback}]{Latin Modern
-Roman}
 % get rid of language-specific shorthands (see #6817):
 \let\LanguageShortHands\languageshorthands
 \def\languageshorthands#1{}
@@ -115,22 +114,19 @@ Roman}
 
 
 
-\usepackage{fontspec} 
+\usepackage{newtx}
 
 \defaultfontfeatures{Scale=MatchLowercase}
 \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
 
-  \setmainfont[,RawFeature={fallback=mainfontfallback}]{Latin Modern
-Roman}
 
 
 
 
-\title{Cualidades Esenciales de los Servidores Públicos: Administración
-Pública Eficiente y Humana}
+\title{Cualidades del servidor público ideal}
 
 
-\shorttitle{Cualidades Servidores Públicos}
+\shorttitle{CUALIDADES SERVIDORES PÚBLICOS}
 
 
 \usepackage{etoolbox}
@@ -234,14 +230,14 @@ Achalma, Email: \href{mailto:elmer.achalma.09@unsch.edu.pe}{elmer.achalma.09@uns
   \newcommand\contentsname{Tabla de contenidos}
 \fi
 \ifdefined\listfigurename
-  \renewcommand*\listfigurename{List of Figures}
+  \renewcommand*\listfigurename{Lista de Figuras}
 \else
-  \newcommand\listfigurename{List of Figures}
+  \newcommand\listfigurename{Lista de Figuras}
 \fi
 \ifdefined\listtablename
-  \renewcommand*\listtablename{List of Tables}
+  \renewcommand*\listtablename{Lista de Tablas}
 \else
-  \newcommand\listtablename{List of Tables}
+  \newcommand\listtablename{Lista de Tablas}
 \fi
 \ifdefined\figurename
   \renewcommand*\figurename{Figura}
@@ -258,7 +254,7 @@ Achalma, Email: \href{mailto:elmer.achalma.09@unsch.edu.pe}{elmer.achalma.09@uns
 \floatstyle{ruled}
 \@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
 \floatname{codelisting}{Listing}
-\newcommand*\listoflistings{\listof{codelisting}{List of Listings}}
+\newcommand*\listoflistings{\listof{codelisting}{Lista de Listings}}
 \makeatother
 \makeatletter
 \makeatother
@@ -304,14 +300,17 @@ Achalma, Email: \href{mailto:elmer.achalma.09@unsch.edu.pe}{elmer.achalma.09@uns
 
 \maketitle
 
+
 \hypertarget{toc}{}
 \tableofcontents
 \newpage
-\section[Introduction]{Cualidades Esenciales de los Servidores Públicos}
+\section[Introduction]{Cualidades del servidor público ideal}
 
-\setcounter{secnumdepth}{5}
+\setcounter{secnumdepth}{3}
 
 \setlength\LTleft{0pt}
+
+
 
 
 \section{¿Cuáles son las cualidades de los servidores
@@ -443,21 +442,17 @@ algunas sugerencias:
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  \href{https://achalmaedison.netlify.app/gestion-publica/posts/2021-10-01-gestion-publica-y-administracion-publica/index.pdf}{\faIcon{file-pdf}}
-  \href{https://achalmaedison.netlify.app/gestion-publica/posts/2021-10-01-gestion-publica-y-administracion-publica}{Gestion
+  \href{https://res-publica.netlify.app/posts/2021-10-01-gestion-publica-y-administracion-publica/index.pdf}{\faIcon{file-pdf}}
+  \href{https://res-publica.netlify.app/posts/2021-10-01-gestion-publica-y-administracion-publica}{Gestion
   Publica Y Administracion Publica}
 \item
-  \href{https://achalmaedison.netlify.app/gestion-publica/posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica/index.pdf}{\faIcon{file-pdf}}
-  \href{https://achalmaedison.netlify.app/gestion-publica/posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica}{Reformas
+  \href{https://res-publica.netlify.app/posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica/index.pdf}{\faIcon{file-pdf}}
+  \href{https://res-publica.netlify.app/posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica}{Reformas
   Y Modernizacion De La Gestion Publica}
 \item
-  \href{https://achalmaedison.netlify.app/gestion-publica/posts/2023-05-11-cualidades-de-los-servidores-publicos/index.pdf}{\faIcon{file-pdf}}
-  \href{https://achalmaedison.netlify.app/gestion-publica/posts/2023-05-11-cualidades-de-los-servidores-publicos}{Cualidades
+  \href{https://res-publica.netlify.app/posts/2023-05-11-cualidades-de-los-servidores-publicos/index.pdf}{\faIcon{file-pdf}}
+  \href{https://res-publica.netlify.app/posts/2023-05-11-cualidades-de-los-servidores-publicos}{Cualidades
   De Los Servidores Publicos}
-\item
-  \href{https://achalmaedison.netlify.app/gestion-publica/posts/2024-03-31-por-editar/index.pdf}{\faIcon{file-pdf}}
-  \href{https://achalmaedison.netlify.app/gestion-publica/posts/2024-03-31-por-editar}{Por
-  Editar}
 \end{enumerate}
 
 Esperamos que encuentres estas publicaciones igualmente interesantes y

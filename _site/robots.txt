@@ -1,1 +1,1 @@
-Sitemap: https://achalmaedison.netlify.app/sitemap.xml
+Sitemap: https://res-publica.netlify.app/sitemap.xml

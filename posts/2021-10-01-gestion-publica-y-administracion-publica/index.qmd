@@ -51,6 +51,7 @@ citation:
 date: 10/01/2021
 draft: false
 image: ../featured.jpg
+curso: economia_publica
 ---
 
 # Explorando Definiciones, Conceptos y Aplicación de Gestión Pública y Administración Pública

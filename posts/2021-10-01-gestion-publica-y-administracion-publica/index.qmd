@@ -48,7 +48,7 @@ citation:
   - Kattya Castillo
   - Yuri Fernandez
   pdf-url: https://res-publica.netlify.app/posts/2021-10-01-gestion-publica-y-administracion-publica/index.pdf
-date: 10/01/2021
+date: 2021-10-01
 draft: false
 image: ../featured.jpg
 curso: economia_publica

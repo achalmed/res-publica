@@ -48,9 +48,10 @@ citation:
   - Kattya Castillo
   - Yuri Fernandez
   pdf-url: https://res-publica.netlify.app/posts/2021-10-01-gestion-publica-y-administracion-publica/index.pdf
-date: 10/01/2021
+date: 2021-10-01
 draft: false
 image: ../featured.jpg
+curso: economia_publica
 ---
 
 # Explorando Definiciones, Conceptos y Aplicación de Gestión Pública y Administración Pública
@@ -114,15 +115,30 @@ Su importancia radica en su conexión directa con la vida diaria de los ciudadan
 - **Proyecto de Ampliación del Aeropuerto Jorge Chávez:** A cargo de Lima Airport Partners (LAP), busca modernizar el aeropuerto para 2024, promoviendo el turismo, comercio y comunicaciones.
 
 
+---
+tipo: fragmento
+titulo: texto de apertura del bloque «Publicaciones similares» (incluido en cada post)
+---
+
 # Publicaciones Similares
 
 Si te interesó este artículo, te recomendamos que explores otros blogs y recursos relacionados que pueden ampliar tus conocimientos. Aquí te dejo algunas sugerencias:
 
 
+---
+tipo: fragmento
+titulo: índice de publicaciones de posts; lo genera script_generador_publicacion_similar
+---
+
 1. [{{< fa regular file-pdf >}}](https://res-publica.netlify.app/posts/2021-10-01-gestion-publica-y-administracion-publica/index.pdf) [Gestion Publica Y Administracion Publica](https://res-publica.netlify.app/posts/2021-10-01-gestion-publica-y-administracion-publica)
 2. [{{< fa regular file-pdf >}}](https://res-publica.netlify.app/posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica/index.pdf) [Reformas Y Modernizacion De La Gestion Publica](https://res-publica.netlify.app/posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica)
 3. [{{< fa regular file-pdf >}}](https://res-publica.netlify.app/posts/2023-05-11-cualidades-de-los-servidores-publicos/index.pdf) [Cualidades De Los Servidores Publicos](https://res-publica.netlify.app/posts/2023-05-11-cualidades-de-los-servidores-publicos)
 
+
+---
+tipo: fragmento
+titulo: texto de cierre del bloque «Publicaciones similares» (incluido en cada post)
+---
 
 Esperamos que encuentres estas publicaciones igualmente interesantes y útiles. ¡Disfruta de la lectura!
 

@@ -41,7 +41,7 @@ citation:
   author:
   - Edison Achalma
   pdf-url: https://res-publica.netlify.app/posts/2023-05-11-cualidades-de-los-servidores-publicos/index.pdf
-date: 05/11/2023
+date: 2023-05-11
 draft: false
 image: ../featured.jpg
 curso: economia_publica

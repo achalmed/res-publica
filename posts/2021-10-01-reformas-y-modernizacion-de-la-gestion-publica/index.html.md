@@ -49,9 +49,10 @@ citation:
   - Kattya Castillo
   - Yuri Fernandez
   pdf-url: https://res-publica.netlify.app/posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica/index.pdf
-date: 10/01/2021
+date: 2021-10-01
 draft: false
 image: ../featured.jpg
+curso: economia_publica
 ---
 
 # ¿Qué hacer?
@@ -152,15 +153,30 @@ En este sentido tenemos las principales acciones para reformar y modernizar la g
 
 Esta tarea constituye un verdadero desafío que trasciende el color político de turno, persiguiendo como único fin el bienestar de toda la comunidad. Asimismo, implica la capacitación de los recursos humanos y el logro de la cohesión de objetivos organizacionales e individuales, brindando transparencia en la gestión y combatiendo la corrupción.
 
+---
+tipo: fragmento
+titulo: texto de apertura del bloque «Publicaciones similares» (incluido en cada post)
+---
+
 # Publicaciones Similares
 
 Si te interesó este artículo, te recomendamos que explores otros blogs y recursos relacionados que pueden ampliar tus conocimientos. Aquí te dejo algunas sugerencias:
 
 
+---
+tipo: fragmento
+titulo: índice de publicaciones de posts; lo genera script_generador_publicacion_similar
+---
+
 1. [{{< fa regular file-pdf >}}](https://res-publica.netlify.app/posts/2021-10-01-gestion-publica-y-administracion-publica/index.pdf) [Gestion Publica Y Administracion Publica](https://res-publica.netlify.app/posts/2021-10-01-gestion-publica-y-administracion-publica)
 2. [{{< fa regular file-pdf >}}](https://res-publica.netlify.app/posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica/index.pdf) [Reformas Y Modernizacion De La Gestion Publica](https://res-publica.netlify.app/posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica)
 3. [{{< fa regular file-pdf >}}](https://res-publica.netlify.app/posts/2023-05-11-cualidades-de-los-servidores-publicos/index.pdf) [Cualidades De Los Servidores Publicos](https://res-publica.netlify.app/posts/2023-05-11-cualidades-de-los-servidores-publicos)
 
+
+---
+tipo: fragmento
+titulo: texto de cierre del bloque «Publicaciones similares» (incluido en cada post)
+---
 
 Esperamos que encuentres estas publicaciones igualmente interesantes y útiles. ¡Disfruta de la lectura!
 

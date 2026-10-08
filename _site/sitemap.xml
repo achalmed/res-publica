@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://res-publica.netlify.app/SECURITY.html</loc>
-    <lastmod>2026-06-20T16:43:04.736Z</lastmod>
-  </url>
-  <url>
-    <loc>https://res-publica.netlify.app/posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica/index.html</loc>
-    <lastmod>2026-06-20T16:42:47.780Z</lastmod>
-  </url>
-  <url>
-    <loc>https://res-publica.netlify.app/posts/2021-10-01-gestion-publica-y-administracion-publica/index.html</loc>
-    <lastmod>2026-09-15T12:41:31.126Z</lastmod>
+    <loc>https://res-publica.netlify.app/index.html</loc>
+    <lastmod>2026-07-09T06:42:34.000Z</lastmod>
   </url>
   <url>
     <loc>https://res-publica.netlify.app/posts/2023-05-11-cualidades-de-los-servidores-publicos/index.html</loc>
-    <lastmod>2026-06-20T16:42:47.780Z</lastmod>
+    <lastmod>2026-09-15T12:50:01.000Z</lastmod>
   </url>
   <url>
-    <loc>https://res-publica.netlify.app/index.html</loc>
-    <lastmod>2026-07-02T20:09:30.366Z</lastmod>
+    <loc>https://res-publica.netlify.app/posts/2021-10-01-gestion-publica-y-administracion-publica/index.html</loc>
+    <lastmod>2026-09-15T12:50:01.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://res-publica.netlify.app/posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica/index.html</loc>
+    <lastmod>2026-09-15T12:50:01.000Z</lastmod>
   </url>
 </urlset>

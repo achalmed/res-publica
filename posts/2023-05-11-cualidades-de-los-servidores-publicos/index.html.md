@@ -105,30 +105,21 @@ Esta es una cualidad imprescindible pues todas las entidades públicas y sus fun
 
 Una sola persona no va a poder acumular toda la carga de una entidad. Por eso, es vital saber delegar, crear una línea horizontal de trabajo para empoderar a su equipo, motivarla y, como consecuencia, cumplir o superar los objetivos.
 
----
-tipo: fragmento
-titulo: texto de apertura del bloque «Publicaciones similares» (incluido en cada post)
----
+<!-- fragmento de inclusión — texto de apertura del bloque «Publicaciones similares» (incluido en cada post) -->
 
 # Publicaciones Similares
 
 Si te interesó este artículo, te recomendamos que explores otros blogs y recursos relacionados que pueden ampliar tus conocimientos. Aquí te dejo algunas sugerencias:
 
 
----
-tipo: fragmento
-titulo: índice de publicaciones de posts; lo genera script_generador_publicacion_similar
----
+<!-- fragmento de inclusión — índice de publicaciones de posts; lo genera script_generador_publicacion_similar -->
 
 1. [{{< fa regular file-pdf >}}](https://res-publica.netlify.app/posts/2021-10-01-gestion-publica-y-administracion-publica/index.pdf) [Gestion Publica Y Administracion Publica](https://res-publica.netlify.app/posts/2021-10-01-gestion-publica-y-administracion-publica)
 2. [{{< fa regular file-pdf >}}](https://res-publica.netlify.app/posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica/index.pdf) [Reformas Y Modernizacion De La Gestion Publica](https://res-publica.netlify.app/posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica)
 3. [{{< fa regular file-pdf >}}](https://res-publica.netlify.app/posts/2023-05-11-cualidades-de-los-servidores-publicos/index.pdf) [Cualidades De Los Servidores Publicos](https://res-publica.netlify.app/posts/2023-05-11-cualidades-de-los-servidores-publicos)
 
 
----
-tipo: fragmento
-titulo: texto de cierre del bloque «Publicaciones similares» (incluido en cada post)
----
+<!-- fragmento de inclusión — texto de cierre del bloque «Publicaciones similares» (incluido en cada post) -->
 
 Esperamos que encuentres estas publicaciones igualmente interesantes y útiles. ¡Disfruta de la lectura!
 

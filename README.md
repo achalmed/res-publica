@@ -2,15 +2,15 @@
 tipo: readme
 estado: activo
 ---
-# pub_res-publica/ — Gestión pública: blog satélite del hub `04 index` (repo res-publica, res-publica.netlify.app)
+# res-publica/ — Gestión pública: blog satélite del hub `04 index` (repo res-publica, res-publica.netlify.app)
 
-<!-- GENERADO por `04 index/scripts/pubs.py readme --aplicar` desde `04 index/_pubs/pubs.yml` (2026-10-08); no editar aquí: se regenera desde el hub -->
+<!-- GENERADO por `04 index/scripts/pubs.py readme --aplicar` desde `04 index/_pubs/pubs.yml` (2026-10-10); no editar aquí: se regenera desde el hub -->
 
 ## Qué es
 
 Políticas públicas, administración del Estado y descentralización. Es uno de los 11 blogs satélite de la familia Quarto de Edison Achalma: un sitio Quarto
 con repositorio y sitio Netlify propios, incluido como submódulo git en el hub `04 index` (repo
-`website-achalma`) bajo `04 index/_pubs/pub_res-publica/`. El mismo blog tiene tres nombres: carpeta `pub_res-publica`, repo
+`website-achalma`) bajo `04 index/_pubs/res-publica/`. El mismo blog tiene tres nombres: carpeta `res-publica`, repo
 GitHub `achalmed/res-publica` y dominio `res-publica.netlify.app`; el registro de los tres es `04 index/_pubs/pubs.yml`.
 
 El tema visual (SCSS, JS, extensiones, filtros, `scripts/build-page-css.sh`) **no se edita aquí**: vive en el hub y
@@ -26,7 +26,7 @@ quarto render                               # regenera _site/ (freeze: true: el 
 git add -- <carpeta del post> _contenido_*.qmd _site && git commit -m "post: …"   # confirmar AQUÍ primero…
 ../../scripts/puerta-r6.sh .                # puerta R6: _site/index.html al día antes del push (también es el hook pre-push)
 git push                                    # …al remoto propio (ssh git@github.com:achalmed/res-publica.git)
-cd ../.. && git add _pubs/pub_res-publica && git commit -m "pubs: res-publica al último commit"   # y mover el puntero en el hub
+cd ../.. && git add _pubs/res-publica && git commit -m "pubs: res-publica al último commit"   # y mover el puntero en el hub
 ```
 
 ## Estructura

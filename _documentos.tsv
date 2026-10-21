@@ -1,0 +1,12 @@
+# _documentos.tsv — GENERADO por scripts/documentos.py; no editar
+# Caché del modo documentos (render.sh --documentos): una fila por página y formato; la clave es el sha256 de la
+# fuente y de la fecha de la página; sha256 es el de la salida en _site/. Ver web/docs/decisiones.md §4.5.
+fuente	formato	salida	clave	sha256
+404.qmd	-	-	c85b32311453cfb0f60c43ff65395a9a5e18f3836bedbfd9e72c54a8b8436404	-
+index.qmd	-	-	5ce644b0e2992fe078257cc67cdc03ac8b8daa33e511e157f60773667fe3429f	-
+posts/2021-10-01-gestion-publica-y-administracion-publica/index.qmd	apaquarto-docx	posts/2021-10-01-gestion-publica-y-administracion-publica/index.docx	5393b7de2eb08999f62d18ab359744e74cd6d30e4fc5f57aa5a0645d0a8c8c46	c6fc571179c0c0dd1da8a41454978f77026096ab4ba196695ab175cc2335f66b
+posts/2021-10-01-gestion-publica-y-administracion-publica/index.qmd	apaquarto-pdf	posts/2021-10-01-gestion-publica-y-administracion-publica/index.pdf	5393b7de2eb08999f62d18ab359744e74cd6d30e4fc5f57aa5a0645d0a8c8c46	0e74301b9fb16ae7df95d16d667d07678705e5ef28d31d410aead57013eaa49d
+posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica/index.qmd	apaquarto-docx	posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica/index.docx	9628d75107c4eb6e614d0b16e5cd7efbc2dc9e1cfd9f129705c915b965f4f38e	eb08a4674d94d4e53ecce0452f3090d95a0450af6f84a9c9aa7b5a1c4f0857f1
+posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica/index.qmd	apaquarto-pdf	posts/2021-10-01-reformas-y-modernizacion-de-la-gestion-publica/index.pdf	9628d75107c4eb6e614d0b16e5cd7efbc2dc9e1cfd9f129705c915b965f4f38e	2693645aa23007fdb948c25d2db409bb15d243c37118552a9d488346b2478837
+posts/2023-05-11-cualidades-de-los-servidores-publicos/index.qmd	apaquarto-docx	posts/2023-05-11-cualidades-de-los-servidores-publicos/index.docx	9881df64ed29c6f62d353790909b1e319dcaca8585a1494f592a6f593eb66960	ff7c560782a33d696a50e60424ff5a6c41f9bb50742f69136a067124d0b0f7f6
+posts/2023-05-11-cualidades-de-los-servidores-publicos/index.qmd	apaquarto-pdf	posts/2023-05-11-cualidades-de-los-servidores-publicos/index.pdf	9881df64ed29c6f62d353790909b1e319dcaca8585a1494f592a6f593eb66960	f827d127c5660fa514bee7bd867f29b72d00ccd10b7989ee47d0d4d50cd40e14
